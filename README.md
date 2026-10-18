@@ -5,9 +5,9 @@
 > 站在风口上，猪都能飞起来——但你得先找到风口
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将雷军的极致性价比、风口论和互联网思维蒸馏为 Claude Code 可调用的 Skill，让 AI 像小米创始人一样拆解商业问题。**
+**将雷军的极致性价比、风口论和互联网思维蒸馏为 Claude Code 等 Agent Skills 客户端可调用的 Skill，让 AI 像小米创始人一样拆解商业问题。**
 
 </div>
 
@@ -77,7 +77,7 @@ npx skills add nuwa-skills/leijun-skill
 
 ```
 leijun-skill/
-├── SKILL.md                      # Skill 主文件（Claude Code 读取）
+├── SKILL.md                      # Skill 主文件（Claude Code 等客户端读取）
 ├── README.md                     # 项目说明
 ├── LICENSE                       # MIT 许可证
 ├── examples/
